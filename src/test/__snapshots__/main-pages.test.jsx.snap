@@ -1,0 +1,21 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Should render Packages component correctly 1`] = `
+<div>
+  <div>
+    <h2>
+      Loading...
+    </h2>
+  </div>
+</div>
+`;
+
+exports[`Should render destination component correctly 1`] = `
+<div>
+  <div>
+    <h2>
+      Loading...
+    </h2>
+  </div>
+</div>
+`;
